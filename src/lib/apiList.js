@@ -1,4 +1,4 @@
-export const server = "https://hr-portal-backend.onrender.com";
+export const server = "https://hr-job-service.onrender.com";
 
 const apiList = {
   login: `${server}/auth/login`,
